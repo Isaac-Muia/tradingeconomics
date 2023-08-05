@@ -4,3 +4,5 @@ Plots the given indicator for n number of countries on a chart
 ./TEvenv/Scripts/activate
 ### Run script
 python __main__.py  'country1' 'country2'... 'countryn' 'indicator'
+
+##### Developed in windows 11
